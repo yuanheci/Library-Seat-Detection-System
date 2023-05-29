@@ -1,0 +1,98 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>32.JPG</filename>
+	<path>D:\VOCdevkit\VOC2007\JPEGImages\32.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>2341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>10</ymin>
+			<xmax>880</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1130</xmin>
+			<ymin>410</ymin>
+			<xmax>2220</xmax>
+			<ymax>1520</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>1070</ymin>
+			<xmax>1480</xmax>
+			<ymax>2341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2760</xmin>
+			<ymin>70</ymin>
+			<xmax>3910</xmax>
+			<ymax>1680</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4380</xmin>
+			<ymin>250</ymin>
+			<xmax>6000</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2040</xmin>
+			<ymin>60</ymin>
+			<xmax>2900</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3710</xmin>
+			<ymin>20</ymin>
+			<xmax>4550</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+</annotation>

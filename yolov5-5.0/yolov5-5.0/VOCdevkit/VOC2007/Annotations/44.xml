@@ -1,0 +1,134 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>44.JPG</filename>
+	<path>D:\VOCdevkit\VOC2007\JPEGImages\44.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3940</xmin>
+			<ymin>1870</ymin>
+			<xmax>5380</xmax>
+			<ymax>2650</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4530</xmin>
+			<ymin>2570</ymin>
+			<xmax>5770</xmax>
+			<ymax>3110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4150</xmin>
+			<ymin>2760</ymin>
+			<xmax>4850</xmax>
+			<ymax>3550</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3030</xmin>
+			<ymin>2490</ymin>
+			<xmax>3980</xmax>
+			<ymax>2990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2840</xmin>
+			<ymin>2530</ymin>
+			<xmax>3370</xmax>
+			<ymax>2830</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2420</xmin>
+			<ymin>1990</ymin>
+			<xmax>3860</xmax>
+			<ymax>2830</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>2000</ymin>
+			<xmax>2250</xmax>
+			<ymax>2760</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymin>2520</ymin>
+			<xmax>2410</xmax>
+			<ymax>2960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1400</xmin>
+			<ymin>2530</ymin>
+			<xmax>3130</xmax>
+			<ymax>3740</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3060</xmin>
+			<ymin>2920</ymin>
+			<xmax>4930</xmax>
+			<ymax>4000</ymax>
+		</bndbox>
+	</object>
+</annotation>

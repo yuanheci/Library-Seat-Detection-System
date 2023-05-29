@@ -1,0 +1,62 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>52.JPG</filename>
+	<path>D:\VOCdevkit\VOC2007\JPEGImages\52.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3620</width>
+		<height>3646</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>2605</ymin>
+			<xmax>1857</xmax>
+			<ymax>3646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2268</xmin>
+			<ymin>2664</ymin>
+			<xmax>3262</xmax>
+			<ymax>3575</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2286</xmin>
+			<ymin>2505</ymin>
+			<xmax>3268</xmax>
+			<ymax>2787</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>1887</ymin>
+			<xmax>1980</xmax>
+			<ymax>2822</ymax>
+		</bndbox>
+	</object>
+</annotation>

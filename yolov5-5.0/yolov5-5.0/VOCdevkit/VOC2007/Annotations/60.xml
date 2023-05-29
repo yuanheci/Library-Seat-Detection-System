@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>60.JPG</filename>
+	<path>D:\VOCdevkit\VOC2007\JPEGImages\60.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3116</width>
+		<height>5330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>2365</ymin>
+			<xmax>2657</xmax>
+			<ymax>5320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>73</ymin>
+			<xmax>2757</xmax>
+			<ymax>1955</ymax>
+		</bndbox>
+	</object>
+</annotation>

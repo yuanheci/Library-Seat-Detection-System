@@ -1,0 +1,98 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>64.JPG</filename>
+	<path>D:\VOCdevkit\VOC2007\JPEGImages\64.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>2470</ymin>
+			<xmax>1560</xmax>
+			<ymax>3850</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>40</ymin>
+			<xmax>1500</xmax>
+			<ymax>1500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1630</xmin>
+			<ymin>60</ymin>
+			<xmax>2930</xmax>
+			<ymax>1720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3580</xmin>
+			<ymin>220</ymin>
+			<xmax>4930</xmax>
+			<ymax>1480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1870</xmin>
+			<ymin>2410</ymin>
+			<xmax>2770</xmax>
+			<ymax>3890</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2990</xmin>
+			<ymin>1960</ymin>
+			<xmax>4430</xmax>
+			<ymax>3850</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4290</xmin>
+			<ymin>1970</ymin>
+			<xmax>5620</xmax>
+			<ymax>3970</ymax>
+		</bndbox>
+	</object>
+</annotation>

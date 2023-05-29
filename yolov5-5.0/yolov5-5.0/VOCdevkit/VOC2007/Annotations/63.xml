@@ -1,0 +1,98 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>63.JPG</filename>
+	<path>D:\VOCdevkit\VOC2007\JPEGImages\63.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5769</width>
+		<height>2796</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>1198</ymin>
+			<xmax>1394</xmax>
+			<ymax>2658</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1454</xmin>
+			<ymin>1288</ymin>
+			<xmax>2704</xmax>
+			<ymax>2728</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3024</xmin>
+			<ymin>1008</ymin>
+			<xmax>4474</xmax>
+			<ymax>2618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4444</xmin>
+			<ymin>958</ymin>
+			<xmax>5764</xmax>
+			<ymax>2668</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3384</xmin>
+			<ymin>118</ymin>
+			<xmax>4524</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>724</xmin>
+			<ymin>8</ymin>
+			<xmax>1674</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1694</xmin>
+			<ymin>78</ymin>
+			<xmax>2644</xmax>
+			<ymax>848</ymax>
+		</bndbox>
+	</object>
+</annotation>

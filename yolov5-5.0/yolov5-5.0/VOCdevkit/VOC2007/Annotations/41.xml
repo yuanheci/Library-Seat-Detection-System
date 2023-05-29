@@ -1,0 +1,122 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>41.JPG</filename>
+	<path>D:\VOCdevkit\VOC2007\JPEGImages\41.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3828</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>720</xmin>
+			<ymin>2913</ymin>
+			<xmax>1500</xmax>
+			<ymax>3446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1394</xmin>
+			<ymin>2800</ymin>
+			<xmax>1880</xmax>
+			<ymax>3320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>2580</ymin>
+			<xmax>1020</xmax>
+			<ymax>3040</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Empty seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1047</xmin>
+			<ymin>2573</ymin>
+			<xmax>1607</xmax>
+			<ymax>3020</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1787</xmin>
+			<ymin>2486</ymin>
+			<xmax>2514</xmax>
+			<ymax>3193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Used seat status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2387</xmin>
+			<ymin>2280</ymin>
+			<xmax>2814</xmax>
+			<ymax>2806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2774</xmin>
+			<ymin>2700</ymin>
+			<xmax>3174</xmax>
+			<ymax>3180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3240</xmin>
+			<ymin>2720</ymin>
+			<xmax>3800</xmax>
+			<ymax>3186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Occupancy status</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2454</xmin>
+			<ymin>2753</ymin>
+			<xmax>2894</xmax>
+			<ymax>3206</ymax>
+		</bndbox>
+	</object>
+</annotation>

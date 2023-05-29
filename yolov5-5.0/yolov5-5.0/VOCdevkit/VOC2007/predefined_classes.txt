@@ -1,0 +1,3 @@
+Empty seat status
+Occupancy status
+Used seat status
